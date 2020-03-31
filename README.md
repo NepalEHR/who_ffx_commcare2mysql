@@ -6,7 +6,8 @@
 2. Run “python3 ~/bin/who_ffx_commcare2mysql.py”
 3. Log into mysql “mysql -u ubuntu -p covid19”, password: ******, and the data should have populated into “covid_case” table
 
-————————————————————————————————————
+## MORE INFO
+
 ### Test machine:
 * ubuntu@ec2-54-254-181-130.ap-southeast-1.compute.amazonaws.com
 
